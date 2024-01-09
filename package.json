@@ -1,5 +1,6 @@
 {
-  "name": "root",
+  "version": "1.19.0",
+  "name": "medusa",
   "private": true,
   "workspaces": {
     "packages": [
